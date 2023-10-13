@@ -1,5 +1,5 @@
 # SpaceShip-Titanic-Kaggle-Competition
-This repository contains my personal approach to the Spaceship Titanic Kaggle Challenge.
+This repository contains my personal approach to the Spaceship Titanic Kaggle Challenge. [Full Project](https://github.com/ZahraAfjehie/SpaceShip-Titanic-Kaggle-Competition/blob/main/Kaggle_Titanic_Last.ipynb)
 
 In this Kaggle competition, I tackle the challenge posed by the Spaceship Titanic dataset. The goal is to provide a detailed understanding of my approach and solution to this problem.
 As a part of the analysis, I used the dataset's features to uncover relationships among variables, engineer new features, and explore techniques for addressing missing values using data visualizations. 
